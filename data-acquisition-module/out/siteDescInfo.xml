@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<usgs_nwis>
+ <site>
+  <agency_cd>USGS</agency_cd>
+  <site_no>02288800</site_no>
+  <station_nm>TAMIAMI CANAL OUTLETS, MONROE TO CARNESTOWN, FLA</station_nm>
+  <dec_lat_va>25.88648758</dec_lat_va>
+  <dec_long_va>-81.25813140</dec_long_va>
+  <coord_acy_cd>S</coord_acy_cd>
+  <dec_lat_long_datum_cd>NAD83</dec_lat_long_datum_cd>
+ </site>
+ <site>
+  <agency_cd>USGS</agency_cd>
+  <site_no>02293263</site_no>
+  <station_nm>GATOR SLOUGH ABOVE WEIR 19 AT CAPE CORAL, FL</station_nm>
+  <dec_lat_va>26.72563333</dec_lat_va>
+  <dec_long_va>-81.95669720</dec_long_va>
+  <coord_acy_cd>U</coord_acy_cd>
+  <dec_lat_long_datum_cd>NAD83</dec_lat_long_datum_cd>
+ </site>
+ <site>
+  <agency_cd>USGS</agency_cd>
+  <site_no>02299484</site_no>
+  <station_nm>BIG SLOUGH AT WCS-101 AT NORTH PORT FL</station_nm>
+  <dec_lat_va>27.04700165</dec_lat_va>
+  <dec_long_va>-82.23786980</dec_long_va>
+  <coord_acy_cd>F</coord_acy_cd>
+  <dec_lat_long_datum_cd>NAD83</dec_lat_long_datum_cd>
+ </site>
+ <site>
+  <agency_cd>USGS</agency_cd>
+  <site_no>264438082033600</site_no>
+  <station_nm>DURDEN CREEK NR CAPE CORAL, FL</station_nm>
+  <dec_lat_va>26.74383333</dec_lat_va>
+  <dec_long_va>-82.06002780</dec_long_va>
+  <coord_acy_cd>U</coord_acy_cd>
+  <dec_lat_long_datum_cd>NAD83</dec_lat_long_datum_cd>
+ </site>
+</usgs_nwis>
+
